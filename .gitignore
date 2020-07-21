@@ -131,3 +131,6 @@ dmypy.json
 # IDEA
 .idea/
 
+# Test databases
+test.db
+
